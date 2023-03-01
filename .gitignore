@@ -25,3 +25,10 @@ ehthumbs.db
 Icon?
 Thumbs.db
 *.swp
+
+data_folder
+*.a
+*.so
+*.weights
+*.conv.74
+*.zip
